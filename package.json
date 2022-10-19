@@ -2,7 +2,7 @@
   "name": "compass-uol-frontend",
   "author": "Otávio Bastilho",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://obeavis.github.io/compass-uol-frontend",
   "keywords": [
     "react",
