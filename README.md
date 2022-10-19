@@ -1,14 +1,9 @@
 Projeto criado para o teste de desenvolvedor frontend.
 Ainda com muito a ser feito.
 
-Projeto pode ser visto rodando aqui : https://obeavis.github.io/movies-app/
+Projeto pode ser visto rodando aqui : https://obeavis.github.io/compass-uol-frontend/
 
-[Live Demo](https://obeavis.github.io/movies-app/).
-
-
-Projeto usando a API do The Movie Database TMDb pode ser vista aqui :
-[The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction)
-
+[Live Demo](https://obeavis.github.io/compass-uol-frontend/).
 
 Para rodar faça o clone ou o download e após use o comando : 
 ### `yarn install`
