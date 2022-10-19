@@ -1,6 +1,6 @@
 import React, { FC, ComponentType } from "react";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route,
   Navigate,
