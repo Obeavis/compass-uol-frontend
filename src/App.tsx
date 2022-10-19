@@ -1,24 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Routes from "utils/Routes";
+import { GlobalProvider, GlobalConsumer } from "contexts/GlobalContext";
+import { AuthProvider, AuthConsumer } from "contexts/AuthContext";
+import Loader from "components/Loader";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <GlobalProvider>
+        <GlobalConsumer>
+          {(global) => (
+            <AuthProvider>
+              <AuthConsumer>
+                {({ state }) => (
+                  <>
+                    <Routes isLogged={state.isLogged} />
+
+                    {global.state.loading ? <Loader /> : null}
+                  </>
+                )}
+              </AuthConsumer>
+            </AuthProvider>
+          )}
+        </GlobalConsumer>
+      </GlobalProvider>
     </div>
   );
 }

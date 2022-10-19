@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component renders the component 1`] = `
+<div>
+  <label
+    class="w-full flex items-center gap-3 undefined"
+    for="teste"
+  >
+    <input
+      class="rounded-full border bg-transparent text-white w-full px-3 py-2 border-gray-200"
+      id="teste"
+    />
+  </label>
+</div>
+`;

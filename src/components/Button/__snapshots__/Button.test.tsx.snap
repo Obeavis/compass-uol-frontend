@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component renders the component 1`] = `
+<div>
+  <div
+    class="w-full"
+  >
+    <button
+      class="w-full text-gray-200 py-3 text-sm undefined css-1jlxohd"
+    />
+  </div>
+</div>
+`;
