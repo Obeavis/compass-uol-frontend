@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/compass-uol-frontend/static/css/main.988ce59f.css",
+    "main.js": "/compass-uol-frontend/static/js/main.8d4fedcd.js",
+    "static/js/787.84a0e70b.chunk.js": "/compass-uol-frontend/static/js/787.84a0e70b.chunk.js",
+    "static/media/background.jpg": "/compass-uol-frontend/static/media/background.3ce37e2a848772d323b3.jpg",
+    "static/media/bola-logo-compass.svg": "/compass-uol-frontend/static/media/bola-logo-compass.d67de0da57da3ef8fa653a267096383e.svg",
+    "static/media/logo-compass-white.svg": "/compass-uol-frontend/static/media/logo-compass-white.0e840fdf3e57631191f65dfea9447a87.svg",
+    "static/media/Mark-Pro.ttf": "/compass-uol-frontend/static/media/Mark-Pro.54f6ced4378b450fbcdd.ttf",
+    "static/media/logo-compass-black.svg": "/compass-uol-frontend/static/media/logo-compass-black.9efbd407dd92c6d420ba32f742bb3b0a.svg",
+    "static/media/padlock.svg": "/compass-uol-frontend/static/media/padlock.18855ebe2319c946267ea7167d056275.svg",
+    "static/media/user.svg": "/compass-uol-frontend/static/media/user.548bc6190889df02ee13160a972bd7f5.svg",
+    "index.html": "/compass-uol-frontend/index.html",
+    "main.988ce59f.css.map": "/compass-uol-frontend/static/css/main.988ce59f.css.map",
+    "main.8d4fedcd.js.map": "/compass-uol-frontend/static/js/main.8d4fedcd.js.map",
+    "787.84a0e70b.chunk.js.map": "/compass-uol-frontend/static/js/787.84a0e70b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988ce59f.css",
+    "static/js/main.8d4fedcd.js"
+  ]
+}
