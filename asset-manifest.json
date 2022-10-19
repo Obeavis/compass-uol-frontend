@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/compass-uol-frontend/static/css/main.988ce59f.css",
-    "main.js": "/compass-uol-frontend/static/js/main.c26b2594.js",
+    "main.js": "/compass-uol-frontend/static/js/main.367173a0.js",
     "static/js/787.84a0e70b.chunk.js": "/compass-uol-frontend/static/js/787.84a0e70b.chunk.js",
     "static/media/background.jpg": "/compass-uol-frontend/static/media/background.3ce37e2a848772d323b3.jpg",
     "static/media/bola-logo-compass.svg": "/compass-uol-frontend/static/media/bola-logo-compass.d67de0da57da3ef8fa653a267096383e.svg",
@@ -12,11 +12,11 @@
     "static/media/user.svg": "/compass-uol-frontend/static/media/user.548bc6190889df02ee13160a972bd7f5.svg",
     "index.html": "/compass-uol-frontend/index.html",
     "main.988ce59f.css.map": "/compass-uol-frontend/static/css/main.988ce59f.css.map",
-    "main.c26b2594.js.map": "/compass-uol-frontend/static/js/main.c26b2594.js.map",
+    "main.367173a0.js.map": "/compass-uol-frontend/static/js/main.367173a0.js.map",
     "787.84a0e70b.chunk.js.map": "/compass-uol-frontend/static/js/787.84a0e70b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.988ce59f.css",
-    "static/js/main.c26b2594.js"
+    "static/js/main.367173a0.js"
   ]
 }
